@@ -1,2 +1,2 @@
 # EXL-Joystick-Battery-Cover
-A replacement battery cover for the EXL 100 Joysticks
+moved to https://codeberg.org/Jonn-reenthused/EXL-Joystick-Battery-Cover
